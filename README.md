@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, i'm [Molodoy2003](https://github.com/Molodoy2003) 👋
 
-<!--
-**Molodoy2003/Molodoy2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💬 About me:
+  I am a Junior React developer with good knowledge in web development.
+  I have experience in creating interactive and custom web applications
+  using modern technologies such as React, Next js and using Node js.
 
-Here are some ideas to get you started:
+✍️ Skills: 
+  🌝Frontend:
+      - TypeScript / JavaScript (ES6+)
+      - ReactJS
+      - Redux Toolkit / Redux
+      - React Query / RTK Query
+      - React Hook Form / Formik
+      - Tailwind CSS / SCSS / styled-components / CSS Modules
+      - Material UI / Ant Design
+  🌚Backend:
+      - Node.JS
+      - Express JS
+      - Prisma / Mongoose
+      - PostgreSQL / MongoDB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✍️ Projects: 
+  - Blogs-app - blogging platform (MERN) (https://github.com/Molodoy2003/Blogs-app)
+  - Next-pizza - online food delivery service (NextJS + PostgreSQL) (https://github.com/Molodoy2003/next-shop)
+
